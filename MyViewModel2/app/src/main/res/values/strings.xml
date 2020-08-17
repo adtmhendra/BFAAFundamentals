@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My View Model</string>
+    <string name="insert_city">Masukkan ID kota</string>
+    <string name="jakarta_bandung_semarang">1642911,1650357,1627896</string>
+    <string name="search">Cari</string>
+    <string name="city">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="description">Description</string>
+</resources>

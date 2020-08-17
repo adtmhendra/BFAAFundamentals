@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyUnitTesting</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="simpan">Simpan</string>
+    <string name="hitung_volume">Hitung Volume</string>
+    <string name="hitung_keliling">Hitung Keliling</string>
+    <string name="hitung_luas">Hitung Luas</string>
+    <string name="hasil">Hasil</string>
+</resources>

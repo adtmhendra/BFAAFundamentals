@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="moveActivityWithData">Pindah Activity Dengan Data (Intent Explicit)</string>
+    <string name="dialNumber">Dial a Number (Intent Implicit)</string>
+    <string name="calculateVolume">Hitung Volume</string>
+    <string name="result">Hasil</string>
+    <string name="dataReceived">TextView</string>
+    <string name="moveActivityWithObject">Pindah Activity Dengan Objek (Parcelable)</string>
+    <string name="tvDataReceived">Hasil data diterima</string>
+    <string name="tvLikeNumber">Angka berapa yang kamu suka?</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="_250">250</string>
+    <string name="choose">Pilih</string>
+    <string name="moveActivityWithResult">Pindah Activity Membawa Nilai</string>
+    <string name="resultFromActivity">Nilai dari activity</string>
+</resources>

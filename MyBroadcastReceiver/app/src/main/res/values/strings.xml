@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Broadcast Receiver</string>
+    <string name="ini_adalah_sms_permisson">Ini adalah SMS Permisson</string>
+    <string name="check_sms_permission">Check Sms Permission</string>
+    <string name="coming_from">Coming from</string>
+    <string name="jadi_main_kesini_ga">Jadi main kesini ga?</string>
+    <string name="tutup">tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+    <string name="download_file">Download File</string>
+</resources>

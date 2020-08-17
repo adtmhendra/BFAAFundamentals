@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="nama_pahlawan">Nama Pahlawan</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem ipsum dolor sit amet</string>
+    <string name="imgphoto">imgPhoto</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+        <item>Tan Malaka</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deskripsi Ahmad Dahlan</item>
+        <item>Deskripsi Ahmad Yani</item>
+        <item>Deskripsi Sutomo</item>
+        <item>Deskripsi Gatot Subroto</item>
+        <item>Deskripsi Ki Hadjar Dewantara</item>
+        <item>Deskripsi Mohammad Hatta</item>
+        <item>Deskripsi Soedirman</item>
+        <item>Deskripsi Soekarno</item>
+        <item>Deskripsi Soepomo</item>
+        <item>Deskripsi Tan Malaka</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+        <item>@drawable/tan_malaka</item>
+    </string-array>
+</resources>

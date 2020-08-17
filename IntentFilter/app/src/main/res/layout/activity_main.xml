@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="12dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnCalculatorMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calculateVolume" />
+
+    <Button
+        android:id="@+id/btnMoveActivityWithData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/moveActivityWithData" />
+
+    <Button
+        android:id="@+id/btnDialNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialNumber" />
+
+    <Button
+        android:id="@+id/btnMoveActivityWithObject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/moveActivityWithObject" />
+
+    <Button
+        android:id="@+id/btnMoveActivityForResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/moveActivityWithResult" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/resultFromActivity"
+        android:textSize="18sp" />
+</LinearLayout>

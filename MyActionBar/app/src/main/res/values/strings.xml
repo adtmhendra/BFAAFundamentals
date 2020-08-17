@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Action Bar</string>
+    <string name="this_is_main_activity">This is Main Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="this_is_menu_fragment">This is Menu Fragment</string>
+    <string name="this_is_menu_activity">This is Menu Activity</string>
+    <string name="go_to_menu_activity">Go to Menu Activity</string>
+    <string name="menu_1">menu 1</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan data</string>
+</resources>
